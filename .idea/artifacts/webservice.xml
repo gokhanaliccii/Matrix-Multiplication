@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="webservice">
+    <output-path>$PROJECT_DIR$/out/artifacts/webservice</output-path>
+    <root id="root">
+      <element id="module-output" name="webservice" />
+    </root>
+  </artifact>
+</component>

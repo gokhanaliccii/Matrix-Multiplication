@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="service_client">
+    <output-path>$PROJECT_DIR$/out/artifacts/service_client</output-path>
+    <root id="root">
+      <element id="module-output" name="service_client" />
+    </root>
+  </artifact>
+</component>
